@@ -1,0 +1,6 @@
+This is an example file.
+
+This is a newline after a break.
+
+Some random words here. And this is a very long
+thing that people do. Random stuff really.
